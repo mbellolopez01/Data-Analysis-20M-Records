@@ -1,5 +1,5 @@
 # Data Analysis & Demographic Profiling (20M+ Records)
-
+![Dashboard Preview](Dashboard Pronóstico.png)
 ## 📌 Project Overview
 This project focuses on the end-to-end processing, cleaning, and visualization of a massive dataset containing over **20.4 million records**. The primary goal was to transform fragmented raw data from multiple sources into a high-performance interactive Dashboard for population segmentation and contactability analysis.
 
